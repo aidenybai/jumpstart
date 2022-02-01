@@ -12,7 +12,6 @@
     "prettier": "^2.5.1",
     "vite": "^2.7.13",
     "vite-plugin-legacy": "^2.1.0",
-    "vite-plugin-markdown": "^2.0.2",
     "vite-plugin-windicss": "^1.6.3",
     "windicss": "^3.4.3"
   },
